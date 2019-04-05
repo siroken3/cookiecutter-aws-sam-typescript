@@ -1,4 +1,4 @@
-# Cookiecutter SAM for Typescript Lambda functions
+# Cookiecutter SAM for TypeScript 3.3 Lambda functions
 
 This is a This is a [Cookiecutter](https://github.com/audreyr/cookiecutter) template to create a Serverless App based on Serverless Application Model (SAM) and TypeScript 3.3.
 
