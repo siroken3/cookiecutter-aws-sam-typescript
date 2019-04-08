@@ -10,7 +10,7 @@ This is a sample template for sam-app - Below is a brief explanation of what we 
 ├── src                         <-- Source code for a lambda function 
 │   └── functions
 │       └── hello-world
-│           └── app.ts          <-- Lambda function code
+│           └── index.ts        <-- Lambda function code
 ├── template.yml                <-- SAM template
 ├── tsconfig.json               <-- TS configuration           
 └── webpack.config.ts           <-- A Transpile script for TS
